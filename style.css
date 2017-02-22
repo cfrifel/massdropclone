@@ -1,3 +1,10 @@
-body {
-  background: grey;
+.ultralight {
+  background-image: url(https://massdrop-s3.imgix.net/img_splash/1x/ultralight.jpg?auto=format&fm=jpg&q=50&w=494);
+  color: white;
+}
+.audiophile {
+  background: url("https://massdrop-s3.imgix.net/img_splash/1x/audiophile.jpg?auto=format&fm=jpg&q=50&w=494");
+}
+.mechanical-keyboards {
+  background-image: url(https://massdrop-s3.imgix.net/img_splash/1x/mechanicalkeyboards.jpg?auto=format&fm=jpg&q=50&w=494);
 }
